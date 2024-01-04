@@ -242,9 +242,6 @@ const Dashboard = () => {
                             </div>
                             <Card/>
                             <Card/>
-                            <Card/>
-                            <Card/>
-                            <Card/>
                         </div>
                     </div>
                 </div>
